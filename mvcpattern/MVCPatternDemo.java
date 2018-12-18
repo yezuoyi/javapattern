@@ -14,13 +14,10 @@ public class MVCPatternDemo {
       //update model data
       controller.setStudentName("John");
 
-      System.out.println("this is a test333!");
+      System.out.println("this is a develop modify!");
 
       controller.updateView();
 
-      System.out.println("this is a test!");
-
-      System.out.println("this is a test111!");
    }
 
    private static Student retriveStudentFromDatabase(){
