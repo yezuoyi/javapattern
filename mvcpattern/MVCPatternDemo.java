@@ -15,6 +15,8 @@ public class MVCPatternDemo {
       controller.setStudentName("John");
 
       controller.updateView();
+
+      System.out.println("this is a test!");
    }
 
    private static Student retriveStudentFromDatabase(){
