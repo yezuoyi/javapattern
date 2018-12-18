@@ -19,6 +19,7 @@ public class MVCPatternDemo {
       controller.updateView();
 
       System.out.println("this is a f5 modify!");
+      System.out.println("this is a develop modify!");
 
    }
 
