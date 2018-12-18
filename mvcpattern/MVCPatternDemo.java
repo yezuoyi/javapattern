@@ -18,6 +18,8 @@ public class MVCPatternDemo {
 
       controller.updateView();
 
+      System.out.println("this is a f4 modify!");
+
    }
 
    private static Student retriveStudentFromDatabase(){
