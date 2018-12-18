@@ -14,7 +14,7 @@ public class MVCPatternDemo {
       //update model data
       controller.setStudentName("John");
 
-      System.out.println("this is a develop modify!");
+      System.out.println("this is a develop modify 1************!");
 
       controller.updateView();
 
