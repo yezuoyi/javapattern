@@ -21,6 +21,9 @@ public class MVCPatternDemo {
       System.out.println("this is a test!");
 
       System.out.println("this is a test111!");
+
+
+      System.out.println("this is a test222!");
    }
 
    private static Student retriveStudentFromDatabase(){
